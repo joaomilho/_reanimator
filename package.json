@@ -1,5 +1,5 @@
 {
-  "name": "_reanimator",
+  "name": "reanimator",
   "version": "0.0.0",
   "description": "React + animator = Reanimator",
   "main": "index.js",
